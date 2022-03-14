@@ -6,7 +6,7 @@ Help Dana provide a more in-depth analysis of UFO sightings by allowing users to
 ## Analysis Results
 - In order to add the additional filters to the website, the HTML index file required an update.
 
-  -- In order to use the new webpage you will need to follow the steps below:
+  - In order to use the new webpage you will need to follow the steps below:
   
   1. Access the webpage
   ![Step 1](https://user-images.githubusercontent.com/96347933/158086453-9d1ac56b-552d-4520-9fdc-81ef47900ad6.png)
