@@ -20,8 +20,8 @@ Help Dana provide a more in-depth analysis of UFO sightings by allowing users to
 ## Summary
 
 -Drawback
-  -The dataset is limited to the year 2010
+  --The dataset is limited to the year 2010
   
 -Recommendations
-  -Add additional countries to the dataset
-  -Add additional years to the dataset
+  --Add additional countries to the dataset
+  --Add additional years to the dataset
